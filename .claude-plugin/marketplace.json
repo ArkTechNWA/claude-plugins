@@ -1,0 +1,23 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "arktechnwa",
+  "version": "1.0.0",
+  "description": "MCP tools and Claude Code plugins by ArkTechNWA",
+  "owner": {
+    "name": "ArkTechNWA",
+    "email": "claude@arktechnwa.com"
+  },
+  "plugins": [
+    {
+      "name": "zsh-tool",
+      "description": "Zsh shell execution with yield-based oversight, NEVERHANG circuit breaker, and A.L.A.N. learning system",
+      "version": "0.4.0",
+      "author": {
+        "name": "ArkTechNWA",
+        "email": "claude@arktechnwa.com"
+      },
+      "source": "./plugins/zsh-tool",
+      "category": "development"
+    }
+  ]
+}

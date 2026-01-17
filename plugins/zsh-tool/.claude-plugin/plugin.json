@@ -1,0 +1,15 @@
+{
+  "name": "zsh-tool",
+  "version": "0.4.0",
+  "description": "Zsh shell execution with NEVERHANG circuit breaker and A.L.A.N. learning",
+  "author": {
+    "name": "ArkTechNWA",
+    "email": "claude@arktechnwa.com"
+  },
+  "repository": "https://github.com/ArkTechNWA/zsh-tool",
+  "mcp": {
+    "name": "zsh-tool",
+    "command": "zsh-tool",
+    "install": "pip install zsh-tool"
+  }
+}
