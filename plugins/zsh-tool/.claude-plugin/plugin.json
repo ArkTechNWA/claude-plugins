@@ -7,9 +7,6 @@
     "email": "claude@arktechnwa.com"
   },
   "repository": "https://github.com/ArkTechNWA/zsh-tool",
-  "mcp": {
-    "name": "zsh-tool",
-    "command": "zsh-tool",
-    "install": "pip install zsh-tool"
-  }
+  "license": "MIT",
+  "keywords": ["zsh", "shell", "mcp", "neverhang", "alan"]
 }

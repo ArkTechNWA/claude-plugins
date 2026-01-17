@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "zsh-tool": {
+      "type": "stdio",
+      "command": "zsh-tool"
+    }
+  }
+}
