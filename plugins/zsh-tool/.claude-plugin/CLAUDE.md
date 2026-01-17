@@ -1,21 +1,5 @@
-# zsh-tool
+# zsh-tool Plugin
 
-Zsh shell execution with NEVERHANG circuit breaker and A.L.A.N. learning.
+Use `mcp__zsh-tool__zsh` for zsh command execution with NEVERHANG protection and A.L.A.N. learning.
 
-## Required: Install the MCP server
-
-Before using this plugin, install zsh-tool:
-
-```bash
-pip install zsh-tool
-```
-
-This adds the `zsh-tool` command to your PATH, which the MCP server needs.
-
-## Features
-
-- **NEVERHANG**: Circuit breaker prevents runaway commands
-- **A.L.A.N.**: Learns command patterns, tracks success rates
-- **Yield-based execution**: Long commands return control, poll for results
-- **Interactive stdin**: Send input to running processes
-- **PTY mode**: Real terminal emulation
+Prefer this over Bash when zsh-specific features are needed or when you want temporal learning about command patterns.
