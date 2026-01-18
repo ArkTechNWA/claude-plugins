@@ -10,7 +10,7 @@
   "plugins": [
     {
       "name": "zsh-tool",
-      "description": "Zsh shell execution with yield-based oversight, NEVERHANG circuit breaker, and A.L.A.N. learning system",
+      "description": "Zsh shell for Claude Code - full terminal control, live output, PTY mode for interactive commands",
       "author": {
         "name": "ArkTechNWA",
         "email": "claude@arktechnwa.com"
