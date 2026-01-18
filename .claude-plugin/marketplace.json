@@ -11,12 +11,14 @@
     {
       "name": "zsh-tool",
       "description": "Zsh shell execution with yield-based oversight, NEVERHANG circuit breaker, and A.L.A.N. learning system",
-      "version": "0.4.6",
       "author": {
         "name": "ArkTechNWA",
         "email": "claude@arktechnwa.com"
       },
-      "source": "./plugins/zsh-tool",
+      "source": {
+        "source": "github",
+        "repo": "ArkTechNWA/zsh-tool"
+      },
       "category": "development"
     }
   ]
